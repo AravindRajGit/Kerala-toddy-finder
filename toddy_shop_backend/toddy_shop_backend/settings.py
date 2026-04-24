@@ -24,10 +24,7 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     "rest_framework",
     "core",
-    "master",
-    "shop",
-    "review",
-    "media_assets",
+    "app",
 ]
 
 MIDDLEWARE = [
